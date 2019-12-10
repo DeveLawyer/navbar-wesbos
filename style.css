@@ -72,7 +72,7 @@ a:hover {
 }
 
 @media all and (max-width: 500px) {
-    /* To put 1 on each row we only need to overwrite the flex-basis value. Social will ve the same*/
+    /* To put 1 on each row we only need to overwrite the flex-basis value. Social will be the same*/
     .flex-nav li {
         flex-basis: 100%;
     }
